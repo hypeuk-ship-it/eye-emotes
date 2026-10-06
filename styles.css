@@ -94,10 +94,16 @@ main {
   overflow: hidden;
   position: relative;
 }
-.preview-frame svg {
-  width: 92%;
-  height: 78%;
-  overflow: visible;
+.preview-frame img {
+  max-width: 92%;
+  max-height: 78%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  image-rendering: auto;
+  user-select: none;
+  pointer-events: none;
+  will-change: transform;
 }
 .preview-meta {
   margin-top: 16px;
@@ -153,10 +159,13 @@ main {
   border-color: var(--accent);
   box-shadow: 0 0 0 1px var(--accent);
 }
-.emote svg {
+.emote img {
   width: 100%;
-  height: 72px;
-  overflow: visible;
+  height: 78px;
+  object-fit: contain;
+  image-rendering: auto;
+  user-select: none;
+  pointer-events: none;
 }
 .emote .label {
   font-size: 11px;
@@ -172,4 +181,12 @@ footer {
   color: var(--muted);
   font-size: 11px;
   background: var(--panel);
+}
+
+.preview-frame[data-sheet="polly"],
+.preview-frame[data-sheet="elazushu"] {
+  background: #7a8088;
+}
+.preview-frame[data-sheet="designs"] {
+  background: #f2f2f2;
 }

@@ -1,15 +1,13 @@
 # Eye Emotes
 
-Pickable cartoon eye emotes from three reference sheets, each kept in its own style:
+1:1 pickable cartoon eye emotes cropped from three reference sheets (each style kept separate):
 
-1. **Polly** — bold bean brows, motif pupils (12)
-2. **El_azushu** — clean cell-shaded singles mirrored to pairs (9)
-3. **Designs** — graphic eye-design pairs (8)
+1. **Polly** — 12 pairs (bean brows, motif pupils)
+2. **El_azushu** — 9 singles mirrored to pairs
+3. **Designs** — 8 graphic pairs
 
 Live: https://hypeuk-ship-it.github.io/eye-emotes/
 
-URL params: `?sheet=polly|elazushu|designs&emote=<id>`
+`?sheet=polly|elazushu|designs&emote=<id>` — move to look, click to blink (spring transforms on the crop).
 
-Move over the preview to look; click to blink. Separate from the Astrid glass WebGL project.
-
-Styles referenced from public art sheets (Polly Von Dominique · El_azushu · Eye designs for your art). Not affiliated with the original artists.
+Separate from Astrid glass. Styles referenced from public art sheets; not affiliated with the original artists.

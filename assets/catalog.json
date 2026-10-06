@@ -1,0 +1,226 @@
+{
+  "polly": {
+    "id": "polly",
+    "label": "Polly",
+    "credit": "EYES EMOTES \u2014 style after Polly Von Dominique",
+    "emotes": [
+      {
+        "id": "cheerful",
+        "name": "Cheerful",
+        "file": "assets/polly-cheerful.png",
+        "w": 351,
+        "h": 228
+      },
+      {
+        "id": "confident",
+        "name": "Confident",
+        "file": "assets/polly-confident.png",
+        "w": 343,
+        "h": 240
+      },
+      {
+        "id": "bored",
+        "name": "Bored",
+        "file": "assets/polly-bored.png",
+        "w": 351,
+        "h": 235
+      },
+      {
+        "id": "angry",
+        "name": "Angry",
+        "file": "assets/polly-angry.png",
+        "w": 351,
+        "h": 275
+      },
+      {
+        "id": "sleepy",
+        "name": "Sleepy",
+        "file": "assets/polly-sleepy.png",
+        "w": 351,
+        "h": 275
+      },
+      {
+        "id": "smug",
+        "name": "Smug",
+        "file": "assets/polly-smug.png",
+        "w": 351,
+        "h": 275
+      },
+      {
+        "id": "furious",
+        "name": "Furious",
+        "file": "assets/polly-furious.png",
+        "w": 351,
+        "h": 275
+      },
+      {
+        "id": "starry",
+        "name": "Starry",
+        "file": "assets/polly-starry.png",
+        "w": 351,
+        "h": 275
+      },
+      {
+        "id": "pleading",
+        "name": "Pleading",
+        "file": "assets/polly-pleading.png",
+        "w": 334,
+        "h": 275
+      },
+      {
+        "id": "love",
+        "name": "Love-struck",
+        "file": "assets/polly-love.png",
+        "w": 288,
+        "h": 243
+      },
+      {
+        "id": "dizzy",
+        "name": "Dizzy",
+        "file": "assets/polly-dizzy.png",
+        "w": 351,
+        "h": 247
+      },
+      {
+        "id": "blush",
+        "name": "Blushing",
+        "file": "assets/polly-blush.png",
+        "w": 337,
+        "h": 265
+      }
+    ]
+  },
+  "elazushu": {
+    "id": "elazushu",
+    "label": "El_azushu",
+    "credit": "Style after El_azushu",
+    "emotes": [
+      {
+        "id": "gold-open",
+        "name": "Gold Open",
+        "file": "assets/elazushu-gold-open.png",
+        "w": 730,
+        "h": 351
+      },
+      {
+        "id": "gold-open-2",
+        "name": "Gold Open B",
+        "file": "assets/elazushu-gold-open-2.png",
+        "w": 734,
+        "h": 356
+      },
+      {
+        "id": "seafoam-lid",
+        "name": "Seafoam Side-eye",
+        "file": "assets/elazushu-seafoam-lid.png",
+        "w": 792,
+        "h": 322
+      },
+      {
+        "id": "magenta-lash",
+        "name": "Magenta Lashes",
+        "file": "assets/elazushu-magenta-lash.png",
+        "w": 862,
+        "h": 363
+      },
+      {
+        "id": "lime-sleepy",
+        "name": "Lime Sleepy",
+        "file": "assets/elazushu-lime-sleepy.png",
+        "w": 978,
+        "h": 289
+      },
+      {
+        "id": "teal-bored",
+        "name": "Teal Bored",
+        "file": "assets/elazushu-teal-bored.png",
+        "w": 892,
+        "h": 396
+      },
+      {
+        "id": "red-intense",
+        "name": "Red Intense",
+        "file": "assets/elazushu-red-intense.png",
+        "w": 1146,
+        "h": 404
+      },
+      {
+        "id": "gold-puppy",
+        "name": "Gold Puppy",
+        "file": "assets/elazushu-gold-puppy.png",
+        "w": 920,
+        "h": 308
+      },
+      {
+        "id": "smile-slit",
+        "name": "Smile Slit",
+        "file": "assets/elazushu-smile-slit.png",
+        "w": 1106,
+        "h": 203
+      }
+    ]
+  },
+  "designs": {
+    "id": "designs",
+    "label": "Designs",
+    "credit": "Eye designs for your art",
+    "emotes": [
+      {
+        "id": "heartglow",
+        "name": "Heart Glow",
+        "file": "assets/designs-heartglow.png",
+        "w": 505,
+        "h": 264
+      },
+      {
+        "id": "drip",
+        "name": "Drip Mismatch",
+        "file": "assets/designs-drip.png",
+        "w": 499,
+        "h": 264
+      },
+      {
+        "id": "fierce",
+        "name": "Fierce Amber",
+        "file": "assets/designs-fierce.png",
+        "w": 511,
+        "h": 264
+      },
+      {
+        "id": "sleepy",
+        "name": "Sleepy Cap",
+        "file": "assets/designs-sleepy.png",
+        "w": 511,
+        "h": 264
+      },
+      {
+        "id": "hypnotic",
+        "name": "Hypnotic",
+        "file": "assets/designs-hypnotic.png",
+        "w": 493,
+        "h": 241
+      },
+      {
+        "id": "almond",
+        "name": "Almond Green",
+        "file": "assets/designs-almond.png",
+        "w": 511,
+        "h": 264
+      },
+      {
+        "id": "surprised",
+        "name": "Surprised Hearts",
+        "file": "assets/designs-surprised.png",
+        "w": 476,
+        "h": 264
+      },
+      {
+        "id": "angry",
+        "name": "Angry Jagged",
+        "file": "assets/designs-angry.png",
+        "w": 464,
+        "h": 264
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gold-open",
+    "name": "Gold Open",
+    "file": "assets/elazushu-gold-open.png",
+    "w": 730,
+    "h": 351
+  },
+  {
+    "id": "gold-open-2",
+    "name": "Gold Open B",
+    "file": "assets/elazushu-gold-open-2.png",
+    "w": 734,
+    "h": 356
+  },
+  {
+    "id": "seafoam-lid",
+    "name": "Seafoam Side-eye",
+    "file": "assets/elazushu-seafoam-lid.png",
+    "w": 792,
+    "h": 322
+  },
+  {
+    "id": "magenta-lash",
+    "name": "Magenta Lashes",
+    "file": "assets/elazushu-magenta-lash.png",
+    "w": 862,
+    "h": 363
+  },
+  {
+    "id": "lime-sleepy",
+    "name": "Lime Sleepy",
+    "file": "assets/elazushu-lime-sleepy.png",
+    "w": 978,
+    "h": 289
+  },
+  {
+    "id": "teal-bored",
+    "name": "Teal Bored",
+    "file": "assets/elazushu-teal-bored.png",
+    "w": 892,
+    "h": 396
+  },
+  {
+    "id": "red-intense",
+    "name": "Red Intense",
+    "file": "assets/elazushu-red-intense.png",
+    "w": 1146,
+    "h": 404
+  },
+  {
+    "id": "gold-puppy",
+    "name": "Gold Puppy",
+    "file": "assets/elazushu-gold-puppy.png",
+    "w": 920,
+    "h": 308
+  },
+  {
+    "id": "smile-slit",
+    "name": "Smile Slit",
+    "file": "assets/elazushu-smile-slit.png",
+    "w": 1106,
+    "h": 203
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "polly": [
+    {
+      "id": "cheerful",
+      "file": "assets/polly-cheerful.png",
+      "w": 375,
+      "h": 239
+    },
+    {
+      "id": "confident",
+      "file": "assets/polly-confident.png",
+      "w": 375,
+      "h": 252
+    },
+    {
+      "id": "bored",
+      "file": "assets/polly-bored.png",
+      "w": 375,
+      "h": 247
+    },
+    {
+      "id": "angry",
+      "file": "assets/polly-angry.png",
+      "w": 375,
+      "h": 279
+    },
+    {
+      "id": "sleepy",
+      "file": "assets/polly-sleepy.png",
+      "w": 375,
+      "h": 279
+    },
+    {
+      "id": "smug",
+      "file": "assets/polly-smug.png",
+      "w": 375,
+      "h": 279
+    },
+    {
+      "id": "furious",
+      "file": "assets/polly-furious.png",
+      "w": 375,
+      "h": 279
+    },
+    {
+      "id": "starry",
+      "file": "assets/polly-starry.png",
+      "w": 375,
+      "h": 279
+    },
+    {
+      "id": "pleading",
+      "file": "assets/polly-pleading.png",
+      "w": 360,
+      "h": 279
+    },
+    {
+      "id": "love",
+      "file": "assets/polly-love.png",
+      "w": 346,
+      "h": 259
+    },
+    {
+      "id": "dizzy",
+      "file": "assets/polly-dizzy.png",
+      "w": 375,
+      "h": 263
+    },
+    {
+      "id": "blush",
+      "file": "assets/polly-blush.png",
+      "w": 359,
+      "h": 279
+    }
+  ],
+  "designs": [
+    {
+      "id": "heartglow",
+      "file": "assets/designs-heartglow.png",
+      "w": 519,
+      "h": 258
+    },
+    {
+      "id": "drip",
+      "file": "assets/designs-drip.png",
+      "w": 500,
+      "h": 258
+    },
+    {
+      "id": "fierce",
+      "file": "assets/designs-fierce.png",
+      "w": 522,
+      "h": 258
+    },
+    {
+      "id": "sleepy",
+      "file": "assets/designs-sleepy.png",
+      "w": 522,
+      "h": 258
+    },
+    {
+      "id": "hypnotic",
+      "file": "assets/designs-hypnotic.png",
+      "w": 475,
+      "h": 258
+    },
+    {
+      "id": "almond",
+      "file": "assets/designs-almond.png",
+      "w": 516,
+      "h": 258
+    },
+    {
+      "id": "surprised",
+      "file": "assets/designs-surprised.png",
+      "w": 522,
+      "h": 258
+    },
+    {
+      "id": "angry",
+      "file": "assets/designs-angry.png",
+      "w": 491,
+      "h": 258
+    }
+  ]
+}
