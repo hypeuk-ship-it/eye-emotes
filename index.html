@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Eye Emotes</title>
+  <meta name="description" content="Pickable cartoon eye emotes from three reference sheets — Polly, El_azushu, and Eye designs." />
+  <link rel="stylesheet" href="styles.css?v=10070101" />
+</head>
+<body>
+  <header>
+    <h1>Eye Emotes</h1>
+    <span class="credit" id="credit">Three sheets, each in its own style</span>
+    <nav class="tabs" id="tabs" aria-label="Sheets"></nav>
+  </header>
+  <main>
+    <section class="preview-pane">
+      <div class="preview-frame" id="preview-frame">
+        <div id="preview"></div>
+      </div>
+      <div class="preview-meta">
+        <div class="name" id="emote-name">—</div>
+        <div class="sheet" id="emote-sheet">—</div>
+        <div class="hint">Move over the preview to look · click to blink · <code>?sheet=&amp;emote=</code></div>
+      </div>
+    </section>
+    <section class="grid-pane">
+      <h2 id="grid-title">Emotes</h2>
+      <div class="grid" id="grid"></div>
+    </section>
+  </main>
+  <footer>
+    Separate from Astrid glass. Styles referenced from public art sheets (Polly Von Dominique · El_azushu · Eye designs for your art). Not affiliated.
+  </footer>
+  <script type="module" src="app.js?v=10070101"></script>
+</body>
+</html>
